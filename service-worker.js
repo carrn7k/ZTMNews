@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ZTMNews/precache-manifest.47c9eb3423cb4e8267e775d70e7e69cb.js"
+  "/ZTMNews/precache-manifest.fe41b2b88f9753e58ab619857c720d18.js"
 );
 
 workbox.clientsClaim();
