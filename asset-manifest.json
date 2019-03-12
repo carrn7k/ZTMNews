@@ -1,14 +1,14 @@
 {
-  "main.css": "/ZTMNews/static/css/main.25e84099.chunk.css",
-  "main.js": "/ZTMNews/static/js/main.f693fd8a.chunk.js",
-  "main.js.map": "/ZTMNews/static/js/main.f693fd8a.chunk.js.map",
-  "runtime~main.js": "/ZTMNews/static/js/runtime~main.6f072c69.js",
-  "runtime~main.js.map": "/ZTMNews/static/js/runtime~main.6f072c69.js.map",
-  "static/js/2.f1e94f37.chunk.js": "/ZTMNews/static/js/2.f1e94f37.chunk.js",
-  "static/js/2.f1e94f37.chunk.js.map": "/ZTMNews/static/js/2.f1e94f37.chunk.js.map",
-  "index.html": "/ZTMNews/index.html",
-  "precache-manifest.fe41b2b88f9753e58ab619857c720d18.js": "/ZTMNews/precache-manifest.fe41b2b88f9753e58ab619857c720d18.js",
-  "service-worker.js": "/ZTMNews/service-worker.js",
-  "static/css/main.25e84099.chunk.css.map": "/ZTMNews/static/css/main.25e84099.chunk.css.map",
-  "static/media/rusty.png": "/ZTMNews/static/media/rusty.246dc682.png"
+  "main.css": "localhost:3000/build/static/css/main.25e84099.chunk.css",
+  "main.js": "localhost:3000/build/static/js/main.b5135814.chunk.js",
+  "main.js.map": "localhost:3000/build/static/js/main.b5135814.chunk.js.map",
+  "runtime~main.js": "localhost:3000/build/static/js/runtime~main.f04e688d.js",
+  "runtime~main.js.map": "localhost:3000/build/static/js/runtime~main.f04e688d.js.map",
+  "static/js/2.f1e94f37.chunk.js": "localhost:3000/build/static/js/2.f1e94f37.chunk.js",
+  "static/js/2.f1e94f37.chunk.js.map": "localhost:3000/build/static/js/2.f1e94f37.chunk.js.map",
+  "index.html": "localhost:3000/build/index.html",
+  "precache-manifest.81097ab6835a8715a2b81999e3a05a70.js": "localhost:3000/build/precache-manifest.81097ab6835a8715a2b81999e3a05a70.js",
+  "service-worker.js": "localhost:3000/build/service-worker.js",
+  "static/css/main.25e84099.chunk.css.map": "localhost:3000/build/static/css/main.25e84099.chunk.css.map",
+  "static/media/rusty.png": "localhost:3000/build/static/media/rusty.246dc682.png"
 }
